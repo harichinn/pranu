@@ -1,0 +1,2 @@
+this hotfixfile2
+this is second line
